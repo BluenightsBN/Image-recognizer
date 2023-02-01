@@ -1,0 +1,63 @@
+body{
+
+background: linear-gradient( #07a3b2 0% , #e8f5c8 100% ) ;
+
+}
+
+
+#h2 {
+
+font-size: 60px;
+font-family: 'Explora', cursive;
+
+color: black;
+text-shadow: 5px 5px rgb(7, 241, 230);
+font-weight: bold;
+
+} 
+
+#p1 {
+
+font-size: 45px;
+
+color: black;
+font-family: 'Lobster', cursive;
+
+text-decoration: underline;
+
+}
+
+.Name_of_objects {
+
+color: #262626;
+font-size: 30px;
+font-family: 'Teko', sans-serif;
+text-shadow: none;
+
+
+}
+
+#webcam {
+
+    color: black;
+    font-size: 30px;
+    font-family: cursive ;
+}
+
+#button {
+
+    background: linear-gradient(#849b4c 0% , #bfffc7 100%) ; 
+     font-size: 20px;
+     color: black;
+     font-family: 'Poppins', sans-serif
+
+
+}
+
+#button:hover{
+
+   font-size: 25px;
+   text-decoration: underline;
+
+
+}
